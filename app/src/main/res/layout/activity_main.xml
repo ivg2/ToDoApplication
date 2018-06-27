@@ -9,7 +9,7 @@
     <ListView
         android:id="@+id/lvItems"
         android:layout_width="match_parent"
-        android:layout_height="455dp"
+        android:layout_height="325dp"
         tools:layout_editor_absoluteX="20dp"
         tools:layout_editor_absoluteY="34dp"></ListView>
 
